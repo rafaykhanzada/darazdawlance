@@ -1,0 +1,1038 @@
+[
+    {
+        "options": [
+            {
+                "value": "microwaves",
+                "title": "Microwaves",
+                "url": "/microwaves/dawlance/",
+                "order": 0,
+                "id": "20000373"
+            },
+            {
+                "value": "refrigerators",
+                "title": "Refrigerators",
+                "url": "/refrigerators/dawlance/",
+                "order": 0,
+                "id": "10000316"
+            },
+            {
+                "value": "electric-cooktops",
+                "title": "Gas Stoves",
+                "url": "/electric-cooktops/dawlance/",
+                "order": 0,
+                "id": "10000326"
+            },
+            {
+                "value": "water-dispensers",
+                "title": "Water Dispensers & Purifiers",
+                "url": "/water-dispensers/dawlance/",
+                "order": 0,
+                "id": "20000372"
+            },
+            {
+                "value": "cooktops-2",
+                "title": "Cooktops & Ranges",
+                "url": "/cooktops-2/dawlance/",
+                "order": 0,
+                "id": "10000321"
+            },
+            {
+                "value": "large-ovens",
+                "title": "Ovens",
+                "url": "/large-ovens/dawlance/",
+                "order": 0,
+                "id": "10000323"
+            },
+            {
+                "value": "freezers",
+                "title": "Freezers",
+                "url": "/freezers/dawlance/",
+                "order": 0,
+                "id": "10000317"
+            },
+            {
+                "value": "exhausts-rangehoods",
+                "title": "Range Hoods",
+                "url": "/exhausts-rangehoods/dawlance/",
+                "order": 0,
+                "id": "10000324"
+            },
+            {
+                "value": "dish-dryers-&-sterilizers",
+                "title": "Dish Dryers & Sterilizers",
+                "url": "/dish-dryers-&-sterilizers/dawlance/",
+                "order": 0,
+                "id": "20000376"
+            },
+            {
+                "value": "warming-drawers",
+                "title": "Warming Drawers",
+                "url": "/warming-drawers/dawlance/",
+                "order": 0,
+                "id": "10000320"
+            },
+            {
+                "value": "dishwashers-&-dryers",
+                "title": "Dishwashers & Dryers",
+                "url": "/dishwashers-&-dryers/dawlance/",
+                "order": 0,
+                "id": "20000375"
+            },
+            {
+                "value": "wine-cellars",
+                "title": "Wine Cellars",
+                "url": "/wine-cellars/dawlance/",
+                "order": 0,
+                "id": "10000318"
+            },
+            {
+                "value": "water-generator",
+                "title": "Water Generators",
+                "url": "/water-generator/dawlance/",
+                "order": 0,
+                "id": "20000378"
+            },
+            {
+                "value": "cooking-appliances",
+                "title": "Kitchen Appliances",
+                "url": "/cooking-appliances/dawlance/",
+                "order": 0,
+                "id": "10000272"
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "category",
+        "type": "category",
+        "unfoldRow": "-1",
+        "title": "Category",
+        "urlKey": "category",
+        "value": "cooking-appliances",
+        "displayValue": "Kitchen Appliances",
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "20000",
+        "options": [
+            {
+                "value": "dawlance",
+                "title": "Dawlance",
+                "order": 0
+            },
+            {
+                "value": "haier",
+                "title": "Haier",
+                "order": 0
+            },
+            {
+                "value": "pel",
+                "title": "PEL",
+                "order": 0
+            },
+            {
+                "value": "glam-gas-124406806",
+                "title": "Glam Gas",
+                "order": 0
+            },
+            {
+                "value": "homage",
+                "title": "HOMAGE",
+                "order": 0
+            },
+            {
+                "value": "grip-home-appliances-124660447",
+                "title": "Grip Home Appliances",
+                "order": 0
+            },
+            {
+                "value": "care-home-appliances-123525430",
+                "title": "Care Home Appliances",
+                "order": 0
+            },
+            {
+                "value": "orient",
+                "title": "Orient",
+                "order": 0
+            },
+            {
+                "value": "crown-appliances-272477",
+                "title": "Crown Appliances",
+                "order": 0
+            },
+            {
+                "value": "nasgas",
+                "title": "Nasgas",
+                "order": 0
+            },
+            {
+                "value": "westpoint",
+                "title": "Westpoint",
+                "order": 0
+            },
+            {
+                "value": "mega",
+                "title": "MEGA",
+                "order": 0
+            },
+            {
+                "value": "pak-gas-home-appliances-124586660",
+                "title": "Pak Gas Home Appliances",
+                "order": 0
+            },
+            {
+                "value": "hanco",
+                "title": "HANCO",
+                "order": 0
+            },
+            {
+                "value": "kenwood",
+                "title": "Kenwood",
+                "order": 0
+            },
+            {
+                "value": "fischer",
+                "title": "Fischer",
+                "order": 0
+            },
+            {
+                "value": "microtech-industries-124114480",
+                "title": "MicroTech Industries",
+                "order": 0
+            },
+            {
+                "value": "indus",
+                "title": "Indus",
+                "order": 0
+            },
+            {
+                "value": "gaba-national",
+                "title": "Gaba National",
+                "order": 0
+            },
+            {
+                "value": "zarar-electronics-124623645",
+                "title": "Zarar Electronics",
+                "order": 0
+            },
+            {
+                "value": "care-own-123223813",
+                "title": "Care Own",
+                "order": 0
+            },
+            {
+                "value": "national",
+                "title": "National",
+                "order": 0
+            },
+            {
+                "value": "alizey.pk-124636261",
+                "title": "Alizey.pk",
+                "order": 0
+            },
+            {
+                "value": "apolo-123781473",
+                "title": "Apolo",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "brand",
+        "type": "brand",
+        "unfoldRow": "-1",
+        "title": "Brand",
+        "urlKey": "ppath",
+        "value": [
+            "dawlance"
+        ],
+        "displayValue": [
+            "Dawlance"
+        ],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "options": [
+            {
+                "value": "INSTALLMENT",
+                "title": "Installment",
+                "order": 3
+            },
+            {
+                "value": "COD",
+                "title": "Cash On Delivery",
+                "order": 4
+            },
+            {
+                "value": "FBL",
+                "title": "Daraz Verified",
+                "order": 5
+            },
+            {
+                "value": "FS",
+                "title": "Free Shipping",
+                "order": 6
+            },
+            {
+                "value": "OS",
+                "title": "DarazMall",
+                "order": 7
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "service",
+        "type": "multiple",
+        "unfoldRow": "2",
+        "title": "Service",
+        "urlKey": "service",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "options": [
+            {
+                "value": "-178",
+                "title": "Pakistan",
+                "order": 0
+            },
+            {
+                "value": "-49",
+                "title": "China",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "location",
+        "type": "multiple",
+        "unfoldRow": "1",
+        "title": "Location",
+        "urlKey": "location",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "showMin": "Min",
+        "showMax": "Max",
+        "name": "price",
+        "type": "price",
+        "unfoldRow": "2",
+        "title": "Price",
+        "urlKey": "price",
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "name": "rating",
+        "type": "rating",
+        "unfoldRow": "2",
+        "title": "Rating",
+        "urlKey": "rating",
+        "value": "0",
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "7",
+        "options": [
+            {
+                "value": "7:265854",
+                "title": "Brand Warranty",
+                "order": 0
+            },
+            {
+                "value": "7:4498",
+                "title": "No Warranty",
+                "order": 0
+            },
+            {
+                "value": "7:123713018",
+                "title": "Seller Warranty",
+                "order": 0
+            },
+            {
+                "value": "7:4492",
+                "title": "Local seller warranty",
+                "order": 0
+            },
+            {
+                "value": "7:265771",
+                "title": "International Warranty",
+                "order": 0
+            },
+            {
+                "value": "7:265772",
+                "title": "Local Warranty",
+                "order": 0
+            },
+            {
+                "value": "7:4457",
+                "title": "International Manufacturer Warranty",
+                "order": 0
+            },
+            {
+                "value": "7:64248",
+                "title": "International Seller Warranty",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Warranty Type",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "8",
+        "options": [
+            {
+                "value": "8:4447",
+                "title": "1 Year",
+                "order": 0
+            },
+            {
+                "value": "8:4443",
+                "title": "10 Years",
+                "order": 0
+            },
+            {
+                "value": "8:63196",
+                "title": "12 Years",
+                "order": 0
+            },
+            {
+                "value": "8:4446",
+                "title": "2 Years",
+                "order": 0
+            },
+            {
+                "value": "8:4448",
+                "title": "3 Years",
+                "order": 0
+            },
+            {
+                "value": "8:4454",
+                "title": "5 Years",
+                "order": 0
+            },
+            {
+                "value": "8:4456",
+                "title": "6 Months",
+                "order": 0
+            },
+            {
+                "value": "8:4463",
+                "title": "1 Month",
+                "order": 0
+            },
+            {
+                "value": "8:4502",
+                "title": "Life Time Warranty",
+                "order": 0
+            },
+            {
+                "value": "8:3918",
+                "title": "1",
+                "order": 0
+            },
+            {
+                "value": "8:4489",
+                "title": "8 Months",
+                "order": 0
+            },
+            {
+                "value": "8:4478",
+                "title": "11 Months",
+                "order": 0
+            },
+            {
+                "value": "8:4459",
+                "title": "7 Years",
+                "order": 0
+            },
+            {
+                "value": "8:4461",
+                "title": "2 Months",
+                "order": 0
+            },
+            {
+                "value": "8:4462",
+                "title": "3 Months",
+                "order": 0
+            },
+            {
+                "value": "8:4497",
+                "title": "6 Years",
+                "order": 0
+            },
+            {
+                "value": "8:265759",
+                "title": "20 Years",
+                "order": 0
+            },
+            {
+                "value": "8:7",
+                "title": "112",
+                "order": 0
+            },
+            {
+                "value": "8:4455",
+                "title": "10 Months",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Warranty Period",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "30129",
+        "options": [
+            {
+                "value": "30129:3731",
+                "title": "Black",
+                "order": 0
+            },
+            {
+                "value": "30129:3741",
+                "title": "Silver",
+                "order": 0
+            },
+            {
+                "value": "30129:3743",
+                "title": "White",
+                "order": 0
+            },
+            {
+                "value": "30129:1577",
+                "title": "Red",
+                "order": 0
+            },
+            {
+                "value": "30129:3735",
+                "title": "Grey",
+                "order": 0
+            },
+            {
+                "value": "30129:3736",
+                "title": "Green",
+                "order": 0
+            },
+            {
+                "value": "30129:3740",
+                "title": "Purple",
+                "order": 0
+            },
+            {
+                "value": "30129:53757",
+                "title": "Golden",
+                "order": 0
+            },
+            {
+                "value": "30129:3733",
+                "title": "Brown",
+                "order": 0
+            },
+            {
+                "value": "30129:3759",
+                "title": "Multicolor",
+                "order": 0
+            },
+            {
+                "value": "30129:3732",
+                "title": "Blue",
+                "order": 0
+            },
+            {
+                "value": "30129:3734",
+                "title": "Gold",
+                "order": 0
+            },
+            {
+                "value": "30129:3809",
+                "title": "Burgundy",
+                "order": 0
+            },
+            {
+                "value": "30129:3746",
+                "title": "Chocolate",
+                "order": 0
+            },
+            {
+                "value": "30129:1235",
+                "title": "Maroon",
+                "order": 0
+            },
+            {
+                "value": "30129:3739",
+                "title": "Pink",
+                "order": 0
+            },
+            {
+                "value": "30129:3737",
+                "title": "Beige",
+                "order": 0
+            },
+            {
+                "value": "30129:143170",
+                "title": "Antique White",
+                "order": 0
+            },
+            {
+                "value": "30129:202908",
+                "title": "Multicolour",
+                "order": 0
+            },
+            {
+                "value": "30129:3744",
+                "title": "Yellow",
+                "order": 0
+            },
+            {
+                "value": "30129:3781",
+                "title": "Champagne",
+                "order": 0
+            },
+            {
+                "value": "30129:3786",
+                "title": "Emerald Green",
+                "order": 0
+            },
+            {
+                "value": "30129:3738",
+                "title": "Orange",
+                "order": 0
+            },
+            {
+                "value": "30129:3831",
+                "title": "Light Grey",
+                "order": 0
+            },
+            {
+                "value": "30129:3750",
+                "title": "Clear",
+                "order": 0
+            },
+            {
+                "value": "30129:73575",
+                "title": "Dark Grey",
+                "order": 0
+            },
+            {
+                "value": "30129:147416",
+                "title": "Light Black",
+                "order": 0
+            },
+            {
+                "value": "30129:147418",
+                "title": "Deep Black",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Color Family",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "40043",
+        "options": [
+            {
+                "value": "40043:86764",
+                "title": "Top Mount Freezer",
+                "order": 0
+            },
+            {
+                "value": "40043:12908",
+                "title": "French door",
+                "order": 0
+            },
+            {
+                "value": "40043:86766",
+                "title": "Single Door",
+                "order": 0
+            },
+            {
+                "value": "40043:86768",
+                "title": "Display",
+                "order": 0
+            },
+            {
+                "value": "40043:86763",
+                "title": "Side-by-Side",
+                "order": 0
+            },
+            {
+                "value": "40043:86767",
+                "title": "Compact / Mini",
+                "order": 0
+            },
+            {
+                "value": "40043:86765",
+                "title": "Bottom Mount Freezer",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Refrigerator Type",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "30287",
+        "options": [
+            {
+                "value": "30287:2679",
+                "title": "2",
+                "order": 0
+            },
+            {
+                "value": "30287:3918",
+                "title": "1",
+                "order": 0
+            },
+            {
+                "value": "30287:12902",
+                "title": "Side by side",
+                "order": 0
+            },
+            {
+                "value": "30287:2682",
+                "title": "3",
+                "order": 0
+            },
+            {
+                "value": "30287:20568",
+                "title": "4 or more",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Number of doors",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "40044",
+        "options": [
+            {
+                "value": "40044:86761",
+                "title": "Adjustable Shelves",
+                "order": 0
+            },
+            {
+                "value": "40044:86759",
+                "title": "Automatic Ice-Maker",
+                "order": 0
+            },
+            {
+                "value": "40044:86756",
+                "title": "Showcase Door",
+                "order": 0
+            },
+            {
+                "value": "40044:86758",
+                "title": "Door in Door",
+                "order": 0
+            },
+            {
+                "value": "40044:86760",
+                "title": "Reversible Doors",
+                "order": 0
+            },
+            {
+                "value": "40044:86762",
+                "title": "Built-in Filter",
+                "order": 0
+            },
+            {
+                "value": "40044:73571",
+                "title": "Wifi Connected",
+                "order": 0
+            },
+            {
+                "value": "40044:86757",
+                "title": "Built-in Water Dispenser",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Refrigerator Features",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "30278",
+        "options": [
+            {
+                "value": "30278:202954",
+                "title": "351 to 450 LTR",
+                "order": 0
+            },
+            {
+                "value": "30278:202955",
+                "title": "251 to 350 LTR",
+                "order": 0
+            },
+            {
+                "value": "30278:21770",
+                "title": "400",
+                "order": 0
+            },
+            {
+                "value": "30278:202956",
+                "title": "151 to 250 LTR",
+                "order": 0
+            },
+            {
+                "value": "30278:21785",
+                "title": "200",
+                "order": 0
+            },
+            {
+                "value": "30278:202953",
+                "title": "451 to 550 LTR",
+                "order": 0
+            },
+            {
+                "value": "30278:163412",
+                "title": "500",
+                "order": 0
+            },
+            {
+                "value": "30278:163272",
+                "title": "300",
+                "order": 0
+            },
+            {
+                "value": "30278:163320",
+                "title": "350",
+                "order": 0
+            },
+            {
+                "value": "30278:2411",
+                "title": "28",
+                "order": 0
+            },
+            {
+                "value": "30278:2553",
+                "title": "20",
+                "order": 0
+            },
+            {
+                "value": "30278:2428",
+                "title": "30",
+                "order": 0
+            },
+            {
+                "value": "30278:163223",
+                "title": "250",
+                "order": 0
+            },
+            {
+                "value": "30278:2420",
+                "title": "40",
+                "order": 0
+            },
+            {
+                "value": "30278:2452",
+                "title": "25",
+                "order": 0
+            },
+            {
+                "value": "30278:2573",
+                "title": "0.5",
+                "order": 0
+            },
+            {
+                "value": "30278:2469",
+                "title": "45",
+                "order": 0
+            },
+            {
+                "value": "30278:2483",
+                "title": "50",
+                "order": 0
+            },
+            {
+                "value": "30278:163145",
+                "title": "170",
+                "order": 0
+            },
+            {
+                "value": "30278:21522",
+                "title": "60",
+                "order": 0
+            },
+            {
+                "value": "30278:163213",
+                "title": "240",
+                "order": 0
+            },
+            {
+                "value": "30278:163248",
+                "title": "275",
+                "order": 0
+            },
+            {
+                "value": "30278:202957",
+                "title": "50 to 150 LTR",
+                "order": 0
+            },
+            {
+                "value": "30278:163125",
+                "title": "150",
+                "order": 0
+            },
+            {
+                "value": "30278:76130",
+                "title": "350 ML",
+                "order": 0
+            },
+            {
+                "value": "30278:165623",
+                "title": "57g",
+                "order": 0
+            },
+            {
+                "value": "30278:21777",
+                "title": "125",
+                "order": 0
+            },
+            {
+                "value": "30278:163155",
+                "title": "180",
+                "order": 0
+            },
+            {
+                "value": "30278:12877",
+                "title": "0",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Capacity",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    },
+    {
+        "pid": "40920",
+        "options": [
+            {
+                "value": "40920:271637",
+                "title": "Karachi",
+                "order": 0
+            },
+            {
+                "value": "40920:121196829",
+                "title": "Sargodha",
+                "order": 0
+            },
+            {
+                "value": "40920:196640",
+                "title": "Lahore",
+                "order": 0
+            },
+            {
+                "value": "40920:271645",
+                "title": "Gujranwala",
+                "order": 0
+            },
+            {
+                "value": "40920:271636",
+                "title": "Multan",
+                "order": 0
+            },
+            {
+                "value": "40920:271650",
+                "title": "Sialkot",
+                "order": 0
+            },
+            {
+                "value": "40920:271642",
+                "title": "Peshawar",
+                "order": 0
+            },
+            {
+                "value": "40920:2110",
+                "title": "Yes",
+                "order": 0
+            },
+            {
+                "value": "40920:271638",
+                "title": "Quetta",
+                "order": 0
+            }
+        ],
+        "isPreposed": false,
+        "preposeOrder": 0,
+        "name": "attribute",
+        "type": "multiple",
+        "unfoldRow": "0",
+        "title": "Express delivery",
+        "urlKey": "ppath",
+        "value": [],
+        "order": 0,
+        "hidden": false,
+        "locked": false
+    }
+]
